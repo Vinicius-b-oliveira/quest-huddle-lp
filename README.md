@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component 
+# Frontend Mentor - Huddle Landing Page 
 
 Essa é a minha solução para o desafio [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
@@ -27,7 +27,7 @@ Essa é a minha solução para o desafio [Huddle landing page with single introd
 
 ### Links
 
-- Solução: [Ir para solução](https://github.com/Vinicius-b-oliveira/quest-huddle-lp)
+- Solução: [Ir para solução](https://vinicius-b-oliveira.github.io/quest-huddle-lp/)
 
 ## Meu Processo
 
