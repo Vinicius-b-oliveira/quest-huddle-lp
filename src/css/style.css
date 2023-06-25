@@ -66,6 +66,7 @@ main {
     border-radius: 50px;
     font-family: 'Poppins', sans-serif;
     font-size: 1.2rem;
+    cursor: pointer;
 }
 
 .main-content .register-btn:hover {
